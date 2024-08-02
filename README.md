@@ -49,4 +49,4 @@ install & manage versions.
 
 # License
 
-See [LICENSE](LICENSE) © 2021 [CipherStash Inc.](https://github.com/cipherstash/)
+MIT Licensed; See [LICENSE](LICENSE) © 2024 [Jim Cavoli](https://github.com/jimcavoli/)
